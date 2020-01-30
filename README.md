@@ -1,5 +1,5 @@
 ## gall
-game of life implementation that had some shennanigains to do with unix pipes and bash
+game of life implementation that had some shenanigans to do with unix pipes and bash
 going on during testing.
 
 input files need to be formatted specifically with full-stop and crunch characters,
