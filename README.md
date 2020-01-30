@@ -1,6 +1,6 @@
 ## gall
-game of life implementation which had the gall to show me the horror of bash
-scripting and unix pipes during testing.
+game of life implementation that had some shennanigains to do with unix pipes and bash
+going on during testing.
 
 input files need to be formatted specifically with full-stop and crunch characters,
 dots representing dead cells and crunches representing live ones. width and
